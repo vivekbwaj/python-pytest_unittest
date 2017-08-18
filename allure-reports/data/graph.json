@@ -1,0 +1,41 @@
+[ {
+  "uid" : "5dfe85ce6189dfa0",
+  "name" : "Test_LoginCases.test_goToProfile",
+  "time" : {
+    "start" : 1502849509352,
+    "stop" : 1502849512439,
+    "duration" : 3087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3decf7d95d2d664",
+  "name" : "Test_LoginCases.test_validLogin",
+  "time" : {
+    "start" : 1502849504209,
+    "stop" : 1502849509346,
+    "duration" : 5137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4b3f56c638c43ce",
+  "name" : "Test_LoginCases.test_TitleCheck",
+  "time" : {
+    "start" : 1502849490657,
+    "stop" : 1502849504201,
+    "duration" : 13544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bda28af492f00478",
+  "name" : "Test_WikiPageCases.test_SearchContent",
+  "time" : {
+    "start" : 1502849513234,
+    "stop" : 1502849536927,
+    "duration" : 23693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

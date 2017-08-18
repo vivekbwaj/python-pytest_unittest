@@ -1,0 +1,1 @@
+cmd /K "allure.bat generate --clean -o E:\Python-SeleniumFramework\PythonFrameworkAllure\allure-reports E:\Python-SeleniumFramework\PythonFrameworkAllure\xml-reports"

@@ -1,0 +1,1 @@
+cmd /K "py.test -v -s tests/home/login_tests.py --browser firefox --html=report.html"

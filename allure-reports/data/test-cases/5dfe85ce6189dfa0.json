@@ -1,0 +1,74 @@
+{
+  "uid" : "5dfe85ce6189dfa0",
+  "name" : "Test_LoginCases.test_goToProfile",
+  "fullName" : "tests.TestSuite.Test_LoginCases.test_goToProfile",
+  "historyId" : "28438674cc5aaac34fb14bd51ec97ca7",
+  "time" : {
+    "start" : 1502849509352,
+    "stop" : 1502849512439,
+    "duration" : 3087
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb1c3071c2ad1b46",
+      "name" : "Captured stdout setup",
+      "source" : "bb1c3071c2ad1b46.txt",
+      "type" : "text/plain",
+      "size" : 27
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-TUDN7RB"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "12072-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestSuite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_LoginCases.test_goToProfile"
+  }, {
+    "name" : "package",
+    "value" : "tests.TestSuite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5dfe85ce6189dfa0.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "bda28af492f00478",
+  "name" : "Test_WikiPageCases.test_SearchContent",
+  "fullName" : "tests.TestSuite.Test_WikiPageCases.test_SearchContent",
+  "historyId" : "7126022d69394916f0f4d1b97b5bebf2",
+  "time" : {
+    "start" : 1502849513234,
+    "stop" : 1502849536927,
+    "duration" : 23693
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "35654becf9509a8f",
+      "name" : "Captured stdout setup",
+      "source" : "35654becf9509a8f.txt",
+      "type" : "text/plain",
+      "size" : 27
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-TUDN7RB"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "12072-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestSuite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_WikiPageCases.test_SearchContent"
+  }, {
+    "name" : "package",
+    "value" : "tests.TestSuite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bda28af492f00478.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+08/16/2017 10:08:37 AM - utils - INFO: Actual Text From Application Web UI --> :: Home - Mahara Demo
+08/16/2017 10:08:37 AM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+08/16/2017 10:08:37 AM - utils - INFO: ### VERIFICATION CONTAINS !!!
+08/16/2017 10:08:37 AM - LoginPage - INFO: Element found with locator: login_login_username and  locatorType: id
+08/16/2017 10:08:37 AM - LoginPage - INFO: Sent data on element with locator: login_login_username locatorType: id
+08/16/2017 10:08:38 AM - LoginPage - INFO: Element found with locator: login_login_password and  locatorType: id
+08/16/2017 10:08:38 AM - LoginPage - INFO: Sent data on element with locator: login_login_password locatorType: id
+08/16/2017 10:08:39 AM - LoginPage - INFO: Element found with locator: login_submit and  locatorType: id
+08/16/2017 10:08:42 AM - LoginPage - INFO: Clicked on element with locator: login_submit locatorType: id
+08/16/2017 10:08:42 AM - LoginPage - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFrameworkAllure\base\../screenshots/Pages.Home.Login_Page.1502842122022.png
+08/16/2017 10:08:42 AM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+08/16/2017 10:08:42 AM - LoginPage - INFO: Element Found
+08/16/2017 10:08:42 AM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+08/16/2017 10:08:42 AM - LoginPage - INFO: Element found with locator: user-icon and  locatorType: class
+08/16/2017 10:08:58 AM - User_registration - INFO: Element found with locator: Mahara wiki and  locatorType: link
+08/16/2017 10:09:05 AM - User_registration - INFO: Clicked on element with locator: Mahara wiki locatorType: link
+08/16/2017 10:09:05 AM - User_registration - INFO: Element found with locator: searchInput and  locatorType: id
+08/16/2017 10:09:05 AM - User_registration - INFO: Sent data on element with locator: searchInput locatorType: id
+08/16/2017 10:09:05 AM - User_registration - INFO: Element found with locator: searchButton and  locatorType: id
+08/16/2017 10:09:09 AM - User_registration - INFO: Clicked on element with locator: searchButton locatorType: id
+08/16/2017 10:09:09 AM - User_registration - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFrameworkAllure\base\../screenshots/Download mahara link check.1502842149436.png
+08/16/2017 10:09:09 AM - User_registration - INFO: Element found with locator: Download Mahara and  locatorType: link
+08/16/2017 10:09:09 AM - User_registration - INFO: Element Found
+08/16/2017 12:11:44 PM - utils - INFO: Actual Text From Application Web UI --> :: Home - Mahara Demo
+08/16/2017 12:11:44 PM - utils - INFO: Expected Text From Application Web UI --> :: mahara
+08/16/2017 12:11:44 PM - utils - INFO: ### VERIFICATION CONTAINS !!!
+08/16/2017 12:11:44 PM - LoginPage - INFO: Element found with locator: login_login_username and  locatorType: id
+08/16/2017 12:11:44 PM - LoginPage - INFO: Sent data on element with locator: login_login_username locatorType: id
+08/16/2017 12:11:45 PM - LoginPage - INFO: Element found with locator: login_login_password and  locatorType: id
+08/16/2017 12:11:45 PM - LoginPage - INFO: Sent data on element with locator: login_login_password locatorType: id
+08/16/2017 12:11:45 PM - LoginPage - INFO: Element found with locator: login_submit and  locatorType: id
+08/16/2017 12:11:49 PM - LoginPage - INFO: Clicked on element with locator: login_submit locatorType: id
+08/16/2017 12:11:49 PM - LoginPage - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFrameworkAllure\base\../screenshots/Pages.Home.Login_Page.1502849509112.png
+08/16/2017 12:11:49 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+08/16/2017 12:11:49 PM - LoginPage - INFO: Element Found
+08/16/2017 12:11:49 PM - LoginPage - INFO: Element found with locator: username and  locatorType: class
+08/16/2017 12:11:49 PM - LoginPage - INFO: Element found with locator: user-icon and  locatorType: class
+08/16/2017 12:12:06 PM - User_registration - INFO: Element found with locator: Mahara wiki and  locatorType: link
+08/16/2017 12:12:13 PM - User_registration - INFO: Clicked on element with locator: Mahara wiki locatorType: link
+08/16/2017 12:12:13 PM - User_registration - INFO: Element found with locator: searchInput and  locatorType: id
+08/16/2017 12:12:13 PM - User_registration - INFO: Sent data on element with locator: searchInput locatorType: id
+08/16/2017 12:12:13 PM - User_registration - INFO: Element found with locator: searchButton and  locatorType: id
+08/16/2017 12:12:16 PM - User_registration - INFO: Clicked on element with locator: searchButton locatorType: id
+08/16/2017 12:12:16 PM - User_registration - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFrameworkAllure\base\../screenshots/Download mahara link check.1502849536804.png
+08/16/2017 12:12:16 PM - User_registration - INFO: Element found with locator: Download Mahara and  locatorType: link
+08/16/2017 12:12:16 PM - User_registration - INFO: Element Found

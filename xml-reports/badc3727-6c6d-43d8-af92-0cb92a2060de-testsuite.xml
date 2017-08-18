@@ -1,0 +1,55 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1502849490657" stop="1502849536927">
+  <name>tests.TestSuite</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1502849490657" status="passed" stop="1502849504201">
+      <name>Test_LoginCases.test_TitleCheck</name>
+      <attachments>
+        <attachment source="e123dc16-2b64-4ee7-8ff3-3662c02f1faa-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12072-MainThread"/>
+        <label name="host" value="DESKTOP-TUDN7RB"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1502849504209" status="passed" stop="1502849509346">
+      <name>Test_LoginCases.test_validLogin</name>
+      <attachments>
+        <attachment source="70a9c4f6-dfaf-4854-b4d9-35c6e2671590-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="8f4621c5-5227-4a0a-8304-745ddaccf8b0-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12072-MainThread"/>
+        <label name="host" value="DESKTOP-TUDN7RB"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1502849509352" status="passed" stop="1502849512439">
+      <name>Test_LoginCases.test_goToProfile</name>
+      <attachments>
+        <attachment source="57337555-8dcd-48b1-acf3-1acd2108e06d-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12072-MainThread"/>
+        <label name="host" value="DESKTOP-TUDN7RB"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1502849513234" status="passed" stop="1502849536927">
+      <name>Test_WikiPageCases.test_SearchContent</name>
+      <attachments>
+        <attachment source="1022ed2d-5679-4167-a605-13a65401a0c5-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12072-MainThread"/>
+        <label name="host" value="DESKTOP-TUDN7RB"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,1 @@
+cmd /K "py.test tests/TestSuite.py --browser firefox --alluredir E:\Python-SeleniumFramework\PythonFrameworkAllure\xml-reports"

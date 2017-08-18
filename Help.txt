@@ -1,0 +1,1 @@
+1) When copying this framework to another directory or another system, make sure to delete the _pycache_ from each folder

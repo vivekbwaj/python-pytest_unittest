@@ -1,0 +1,27 @@
+07/30/2017 01:59:19 AM - User_registration - INFO: Element found with locator: Mahara wiki and  locatorType: link
+07/30/2017 01:59:20 AM - User_registration - INFO: Cannot click on the element with locator: Mahara wiki locatorType: link
+07/30/2017 01:59:20 AM - User_registration - INFO: Element not found with locator: searchInput and  locatorType: id
+07/30/2017 01:59:20 AM - User_registration - INFO: Cannot send data on the element with locator: searchInput locatorType: id
+07/30/2017 01:59:20 AM - User_registration - INFO: Element not found with locator: searchButton and  locatorType: id
+07/30/2017 01:59:20 AM - User_registration - INFO: Cannot click on the element with locator: searchButton locatorType: id
+07/30/2017 01:59:20 AM - User_registration - ERROR: ### Exception Occurred when taking screenshot
+07/30/2017 01:59:20 AM - User_registration - INFO: Element not found with locator: Download Mahara and  locatorType: link
+07/30/2017 01:59:20 AM - User_registration - INFO: Element not found
+07/30/2017 02:01:14 AM - User_registration - INFO: Element found with locator: Mahara wiki and  locatorType: link
+07/30/2017 02:01:20 AM - User_registration - INFO: Clicked on element with locator: Mahara wiki locatorType: link
+07/30/2017 02:01:20 AM - User_registration - INFO: Element found with locator: searchInput and  locatorType: id
+07/30/2017 02:01:20 AM - User_registration - INFO: Sent data on element with locator: searchInput locatorType: id
+07/30/2017 02:01:20 AM - User_registration - INFO: Element found with locator: searchButton and  locatorType: id
+07/30/2017 02:01:24 AM - User_registration - INFO: Clicked on element with locator: searchButton locatorType: id
+07/30/2017 02:01:25 AM - User_registration - INFO: Screenshot save to directory: E:\Python-SeleniumFramework\PythonFramework\base\../screenshots/Download mahara link check.1501344084753.png
+07/30/2017 02:01:25 AM - User_registration - INFO: Element found with locator: Download Mahara and  locatorType: link
+07/30/2017 02:01:25 AM - User_registration - INFO: Element Found
+07/30/2017 02:14:49 AM - User_registration - INFO: Element not found with locator: Mahara wiki and  locatorType: link
+07/30/2017 02:14:49 AM - User_registration - INFO: Cannot click on the element with locator: Mahara wiki locatorType: link
+07/30/2017 02:14:49 AM - User_registration - INFO: Element not found with locator: searchInput and  locatorType: id
+07/30/2017 02:14:49 AM - User_registration - INFO: Cannot send data on the element with locator: searchInput locatorType: id
+07/30/2017 02:14:49 AM - User_registration - INFO: Element not found with locator: searchButton and  locatorType: id
+07/30/2017 02:14:49 AM - User_registration - INFO: Cannot click on the element with locator: searchButton locatorType: id
+07/30/2017 02:14:49 AM - User_registration - ERROR: ### Exception Occurred when taking screenshot
+07/30/2017 02:14:49 AM - User_registration - INFO: Element not found with locator: Download Mahara and  locatorType: link
+07/30/2017 02:14:49 AM - User_registration - INFO: Element not found

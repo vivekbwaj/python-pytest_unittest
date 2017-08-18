@@ -1,0 +1,28 @@
+1502842104768	geckodriver	INFO	geckodriver 0.18.0
+1502842104783	geckodriver	INFO	Listening on 127.0.0.1:59904
+1502842106870	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1502842112572	Marionette	INFO	Listening on port 59910
+1502842113305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502842125666	Marionette	INFO	New connections will no longer be accepted
+1502842126422	geckodriver	INFO	geckodriver 0.18.0
+1502842126429	geckodriver	INFO	Listening on 127.0.0.1:59967
+1502842128534	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1502842133740	Marionette	INFO	Listening on port 59973
+1502842134192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502842149527	Marionette	INFO	New connections will no longer be accepted
+1502849490765	geckodriver	INFO	geckodriver 0.18.0
+1502849490795	geckodriver	INFO	Listening on 127.0.0.1:60595
+1502849492906	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1502849498763	Marionette	INFO	Listening on port 60601
+1502849499372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502849512453	Marionette	INFO	New connections will no longer be accepted
+1502849513266	geckodriver	INFO	geckodriver 0.18.0
+1502849513276	geckodriver	INFO	Listening on 127.0.0.1:60659
+1502849515436	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1502849520995	Marionette	INFO	Listening on port 60665
+1502849521533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502849536931	Marionette	INFO	New connections will no longer be accepted
